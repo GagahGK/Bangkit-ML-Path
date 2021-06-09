@@ -8,7 +8,7 @@ We Trained the model using the Tensorflow Object Detection API to do transfer le
 
 ### Using the Model
 
-To use the model you can run the `detect_notebook.ipynb`
+To use the model you can run the `test-model.ipynb` inside the `training_models` folder
 
 Currently we don't have an endpoint API Implementation yet
 ## Datasets
