@@ -20,11 +20,11 @@ we have gathered various dataset and trained the model using various combination
 
 | Datasets Name                                                                                                                                                             | Annotation |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Caltech]([http://www.vision.caltech.edu/Image\_Datasets/cars\_markus/](http://www.vision.caltech.edu/Image_Datasets/cars_markus/))                                       | ❌         |
-| [EnglishLP]([http://www.zemris.fer.hr/projects/LicensePlates/english/results.shtml](http://www.zemris.fer.hr/projects/LicensePlates/english/results.shtml))               | ❌         |
-| [AOLP]([https://github.com/AvLab-CV/AOLP](https://github.com/AvLab-CV/AOLP))                                                                                              | ❌         |
-| [Indonesian Plate Number Plate number of Indramayu]([https://www.kaggle.com/imamdigmi/indonesian-plate-number](https://www.kaggle.com/imamdigmi/indonesian-plate-number)) | ✔          |
-| [UFPR-ALPR]([https://web.inf.ufpr.br/vri/databases/ufpr-alpr/](https://web.inf.ufpr.br/vri/databases/ufpr-alpr/))                                                         | ✔          |
+| [Caltech](http://www.vision.caltech.edu/Image_Datasets/cars_markus/)                                       | ❌         |
+| [EnglishLP](http://www.zemris.fer.hr/projects/LicensePlates/english/results.shtml)               | ❌         |
+| [AOLP](https://github.com/AvLab-CV/AOLP)                                                                                            | ❌         |
+| [Indonesian Plate Number Plate number of Indramayu](https://www.kaggle.com/imamdigmi/indonesian-plate-number) | ✔          |
+| [UFPR-ALPR](https://web.inf.ufpr.br/vri/databases/ufpr-alpr/)                                                         | ✔          |
 | [Open Image Dataset V6](https://storage.googleapis.com/openimages/web/index.html)                                                                                         | ✔          |
 | EuropeLP/[Car License Plate Detection (Kaggle)](https://www.kaggle.com/andrewmvd/car-plate-detection)                                                                     | ✔          |
 
