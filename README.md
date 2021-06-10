@@ -10,6 +10,10 @@ We Trained the model using the Tensorflow Object Detection API to do transfer le
 
 To use the model you can run the `test-model.ipynb` inside the `training_models` folder
 
+Requirement :
+1. Tensorflow 2.2.0
+2. Tensroflow Object Detection API (you need to install this manually)
+
 Currently we don't have an endpoint API Implementation yet
 ## Datasets
 we have gathered various dataset and trained the model using various combination, for the dataset without label, we labelled them manualy using labelImg tool, you can find the label in the annotation folder
